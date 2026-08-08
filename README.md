@@ -28,101 +28,17 @@ I specialize in building secure, scalable and automated cloud platforms using **
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud
+| ☁️ Cloud | 🏗️ IaC | ☸️ Kubernetes |
+|---|---|---|
+| Azure, GCP | Terraform, Bicep | Docker, AKS, GKE, Helm |
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+| 🚀 CI/CD & GitOps | 🔐 DevSecOps | 📊 Observability |
+|---|---|---|
+| Azure DevOps, GitHub Actions, Argo CD | SonarQube, Trivy, Tfsec, TFLint, RBAC, IAM | Azure Monitor, App Insights, Log Analytics, Prometheus, Grafana |
 
-**Azure:** VMs • VNets • Subnets • NSGs • Private Endpoints • Key Vault • App Services • Functions • Storage Accounts • Logic Apps • Azure OpenAI • Azure Monitor
-
-**GCP:** GKE • VPC • Cloud NAT • Cloud DNS • IAM • Workload Identity • Cloud Monitoring & Logging
-
-### 🏗️ Infrastructure as Code
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-- Terraform Modules
-- Remote State & Backend
-- State Locking
-- Reusable Infrastructure Modules
-- Environment-based deployments
-- Terraform security and compliance scanning
-- Bicep
-
-### ☸️ Containers & Kubernetes
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-- Kubernetes
-- Azure Kubernetes Service (AKS)
-- Google Kubernetes Engine (GKE)
-- Docker
-- Helm
-- kubectl
-- Kubernetes Network Policies
-- Containerized Microservices
-- Auto-scaling
-
-### 🚀 CI/CD & GitOps
-
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-- Azure DevOps YAML & Classic Pipelines
-- GitHub Actions
-- Automated build, testing and deployment
-- Multi-environment deployments
-- GitOps
-- Argo CD
-- Release automation
-
-### 🔐 DevSecOps & Security
-
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
-
-- SAST — SonarQube
-- DAST — Rapid7
-- Container Scanning — Trivy
-- Terraform Security — Tfsec / TFLint
-- RBAC
-- Microsoft Entra ID
-- IAM
-- Least Privilege
-- Kubernetes Network Policies
-- Workload Identity
-- Zero Trust Security
-
-### 📊 Monitoring & Observability
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-- Azure Monitor
-- Application Insights
-- Log Analytics
-- Prometheus
-- Grafana
-- Google Cloud Monitoring & Logging
-- Centralized logging
-- Alerting
-- Production monitoring
-- Incident response
-
-### 🤖 AI / GenAI
-
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-- Azure OpenAI Service
-- Cognitive Services
-- Secure API integration
-- Scalable LLM infrastructure
-- High-concurrency workloads
-- Secure cloud architecture
+| 🤖 AI / GenAI | 🧰 Scripting & Tools |
+|---|---|
+| Azure OpenAI, Cognitive Services | Bash, PowerShell, Azure CLI, gcloud CLI, Linux, Git |
 
 ---
 
