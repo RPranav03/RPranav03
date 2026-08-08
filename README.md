@@ -10,6 +10,8 @@ I specialize in building secure, scalable and automated cloud platforms using **
 
 ## 🧑‍💻 About Me
 
+- 💼 Role: **Senior DevOps Engineer**
+- 🌍 Location: **India**
 - ☁️ Primary Cloud: **Microsoft Azure**
 - 🌎 Multi-Cloud: **Azure & Google Cloud Platform**
 - 🏗️ Infrastructure as Code: **Terraform, Bicep**
@@ -124,17 +126,93 @@ I specialize in building secure, scalable and automated cloud platforms using **
 
 ---
 
-## 📈 Professional Highlights
+# 🏆 Key Achievements
 
-- ⚡ Reduced infrastructure provisioning time by **35%** using Terraform and Bicep.
-- 🚀 Built and managed **22+ CI/CD pipelines** for enterprise applications.
-- ⏱️ Reduced release timelines by approximately **40%** through CI/CD and GitOps automation.
-- ☸️ Led migration of legacy **3-tier monolithic applications to GKE**.
-- 💰 Reduced infrastructure costs by approximately **25%** through cloud modernization and auto-scaling.
-- 🔐 Reduced infrastructure misconfigurations by **60%** using Terraform security tooling.
-- 📊 Reduced **MTTR by 30%** through improved observability and monitoring.
+| Area | Impact |
+|---|---:|
+| 🏗️ Infrastructure Automation | **35% faster provisioning** |
+| 🚀 CI/CD | **22+ enterprise pipelines** |
+| ⏱️ Release Automation | **40% reduction in release timelines** |
+| ☸️ Cloud Modernization | **Legacy 3-tier → GKE migration** |
+| 💰 Cost Optimization | **25% infrastructure cost reduction** |
+| 🔐 Security | **60% reduction in infrastructure misconfigurations** |
+| 📊 Observability | **30% MTTR reduction** |
+| 🛡️ Reliability | **99.9% availability for production workloads** |
+
 - 🛡️ Implemented DevSecOps practices across CI/CD and Kubernetes environments.
 - ☁️ Designed and automated infrastructure across **Azure and GCP**.
+
+---
+
+# 🚀 Signature Project
+
+## ☁️ Cloud Modernization & DevOps Platform
+
+Designed and automated enterprise cloud infrastructure across **Azure and GCP**, combining Infrastructure as Code, Kubernetes, CI/CD, GitOps, DevSecOps and observability.
+
+### 🔹 Key Contributions
+
+- 🏗️ Automated multi-cloud infrastructure using **Terraform & Bicep**
+- ☸️ Designed and managed **AKS/GKE-based container platforms**
+- 🚀 Built and managed **22+ CI/CD pipelines**
+- 🔄 Implemented GitOps-driven deployments using **Argo CD**
+- 🔐 Integrated security scanning using **SonarQube, Trivy and Terraform security tools**
+- 📊 Implemented **Azure Monitor, Application Insights, Log Analytics, Prometheus and Grafana**
+- 🌎 Led migration of legacy **3-tier monolithic applications to GKE**
+- 💰 Improved infrastructure cost efficiency through cloud modernization and auto-scaling
+- 🤖 Integrated **Azure OpenAI and Cognitive Services** for scalable GenAI/LLM workloads
+
+### 🧱 High-Level Architecture
+
+```text
+                         ┌──────────────────────┐
+                         │      Developer       │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │   Git Repository     │
+                         │ GitHub / Azure Repos │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │     CI Pipeline      │
+                         │ Azure DevOps / GH    │
+                         └──────────┬───────────┘
+                                    │
+                   ┌────────────────┼────────────────┐
+                   ▼                ▼                ▼
+                Build            Testing         Security
+                                                 Scanning
+                   │                │                │
+                   └────────────────┼────────────────┘
+                                    ▼
+                         ┌──────────────────────┐
+                         │ Container / Artifact │
+                         │      Registry        │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │      GitOps          │
+                         │      Argo CD          │
+                         └──────────┬───────────┘
+                                    │
+                         ┌──────────┴───────────┐
+                         ▼                      ▼
+                    ┌─────────┐            ┌─────────┐
+                    │   AKS   │            │   GKE   │
+                    └────┬────┘            └────┬────┘
+                         │                      │
+                         └──────────┬───────────┘
+                                    ▼
+                         ┌──────────────────────┐
+                         │ Monitoring & Logging  │
+                         │ Prometheus / Grafana  │
+                         │ Azure / GCP Monitoring│
+                         └──────────────────────┘
+```
 
 ---
 
@@ -380,14 +458,11 @@ Rajiv Gandhi Technical University, Bhopal
 
 # 🤝 Let's Connect
 
-### LinkedIn
-
-**Pranav Kumar Rai**  
-`linkedin.com/in/pranav-rai01`
-
-### Email
-
-`a.raipranav01@gmail.com`
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [linkedin.com/in/pranav-rai01](https://www.linkedin.com/in/pranav-rai01) |
+| 🐙 GitHub | [github.com/RPranav03](https://github.com/RPranav03) |
+| 📧 Email | [a.raipranav01@gmail.com](mailto:a.raipranav01@gmail.com) |
 
 ---
 
