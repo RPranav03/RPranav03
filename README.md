@@ -30,11 +30,11 @@ I specialize in building secure, scalable and automated cloud platforms using **
 
 | ☁️ Cloud | 🏗️ IaC | ☸️ Kubernetes |
 |---|---|---|
-| Azure, GCP | Terraform, Bicep | Docker, AKS, GKE, Helm |
+| Azure, GCP | Terraform, Bicep | Docker, AKS, GKE, Helm, Kubectl |
 
 | 🚀 CI/CD & GitOps | 🔐 DevSecOps | 📊 Observability |
 |---|---|---|
-| Azure DevOps, GitHub Actions, Argo CD | SonarQube, Trivy, Tfsec, TFLint, RBAC, IAM | Azure Monitor, App Insights, Log Analytics, Prometheus, Grafana |
+| Azure DevOps, GitHub Actions, Argo CD | SonarQube, Trivy, Tfsec, TFLint, RBAC, IAM, RBAC | Azure Monitor, App Insights, Log Analytics, Prometheus, Grafana |
 
 | 🤖 AI / GenAI | 🧰 Scripting & Tools |
 |---|---|
