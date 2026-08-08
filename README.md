@@ -156,8 +156,84 @@ Currently working with cloud platforms for **LLM-based applications**, including
 
 ---
 
-## 📌 Featured Projects
+## ⭐ Featured Repositories
 
+Here are some of my public projects focused on **Azure Cloud, Infrastructure as Code, Terraform, Microservices, and DevOps**.
+
+### 🏗️ Azure Terraform Infrastructure
+
+[![Azure Terraform Infrastructure](https://img.shields.io/badge/GitHub-Azure--Terraform--Infrastructure-181717?style=for-the-badge&logo=github)](https://github.com/RPranav03/Azure-Terraform-Infrastructure)
+
+Modular Terraform infrastructure for provisioning core Azure services with security scanning.
+
+**Highlights:**
+
+- Azure VNet & Networking
+- Storage Accounts
+- Virtual Machines
+- Azure Kubernetes Service (AKS)
+- Reusable Terraform Modules
+- Environment-based Infrastructure
+- Terraform Security Scanning
+
+**Tech Stack:**  
+`Terraform` `Azure` `HCL` `Tfsec`
+
+---
+
+### ☁️ ToDo Monolithic Infrastructure
+
+[![ToDo Monolithic Infra](https://img.shields.io/badge/GitHub-ToDo--Monolithic--Infra-181717?style=for-the-badge&logo=github)](https://github.com/RPranav03/ToDo-Monolithic-Infra)
+
+Infrastructure-as-Code repository for deploying the **ToDo Monolithic application** using a modular Terraform architecture.
+
+The repository follows an environment-based structure with reusable Terraform modules.
+
+### 🏗️ Azure Terraform Infrastructure
+
+A reusable Infrastructure-as-Code project for provisioning Azure resources using modular Terraform.
+
+**Includes:**
+
+- Azure VNet & Networking
+- Storage Accounts
+- Virtual Machines
+- AKS
+- Terraform Modules
+- Infrastructure Security Scanning using Tfsec
+- Reusable IaC structure
+
+**Tech Stack:**
+
+`Terraform` `Azure` `HCL` `Tfsec`
+
+---
+
+### 🧩 ToDo Microservices Architecture
+
+The ToDo application is split into independent microservices:
+
+```text
+                    ┌─────────────────────┐
+                    │     Todo UI          │
+                    │    JavaScript        │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+              ▼                ▼                ▼
+       ┌─────────────┐ ┌─────────────┐ ┌─────────────┐
+       │ Add Task    │ │ Get Tasks   │ │ Delete Task │
+       │  Python     │ │   Python    │ │   Python    │
+       └─────────────┘ └─────────────┘ └─────────────┘
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                      ┌─────────────────┐
+                      │   Application   │
+                      │   Data Layer    │
+                      └─────────────────┘
+                      
 ### ☸️ Kubernetes & Cloud Modernization
 
 > Migration of legacy applications to containerized Kubernetes environments.
