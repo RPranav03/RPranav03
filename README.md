@@ -8,20 +8,15 @@ I specialize in building secure, scalable and automated cloud platforms using **
 
 ---
 
-## 🧑‍💻 About Me
-
+## 👨‍💻 About Me
 - 💼 Role: **Senior DevOps Engineer**
 - 🌍 Location: **India**
-- ☁️ Primary Cloud: **Microsoft Azure**
-- 🌎 Multi-Cloud: **Azure & Google Cloud Platform**
-- 🏗️ Infrastructure as Code: **Terraform, Bicep**
-- ☸️ Containers & Orchestration: **Docker, Kubernetes, AKS, GKE, Helm**
-- 🚀 CI/CD: **Azure DevOps, GitHub Actions**
-- 🔄 GitOps: **Argo CD**
-- 🔐 DevSecOps: **SonarQube, Trivy, Tfsec, TFLint, RBAC**
-- 📊 Observability: **Azure Monitor, Application Insights, Log Analytics, Prometheus, Grafana**
-- 🤖 GenAI: **Azure OpenAI, Cognitive Services**
-- 🐧 Scripting: **Bash, PowerShell, Azure CLI, gcloud CLI**
+- ☁️ **Azure-focused Cloud Engineer** with hands-on multi-cloud experience across Azure and GCP.
+- 🏗️ Experienced in designing **production-grade cloud infrastructure and automation** using Infrastructure as Code.
+- 🚀 Build and automate **CI/CD and GitOps delivery platforms** for modern applications and microservices.
+- ☸️ Experienced in **Kubernetes-based application platforms**, cloud modernization and containerized workloads.
+- 🔐 Strong focus on **DevSecOps, cloud security, reliability and observability**.
+- 🤖 Hands-on experience supporting **GenAI/LLM workloads using Azure OpenAI**.
 - 🎯 Focus Areas: **Cloud Automation, Platform Engineering, DevSecOps, Kubernetes & Cloud Modernization**
 
 ---
